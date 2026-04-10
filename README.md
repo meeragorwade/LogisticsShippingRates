@@ -1,20 +1,15 @@
-# LogisticsShippingRates
-Please consider the below factors while contributing
+# Simple Interest Calculator
 
-Code Style:
-Maintain a consistent code style for readability.
+This is a simple Python program to calculate **Simple Interest** based on user input.
 
-Documentation:
-Ensure well-documented code for effective collaboration.
+## Description
 
-Testing:
-Thoroughly test your changes before submitting a pull request.
+The program asks the user to enter:
+- Principal amount
+- Rate of interest (in percentage)
+- Time period (in years)
 
-Issue Tracker:
-Check the Issue Tracker for tasks.
+It then calculates and displays the simple interest using the standard formula.
 
-Code Review:
-All contributions undergo a code review process.
-
-Licensing:
-Contributions are licensed.
+### Formula Used
+``
